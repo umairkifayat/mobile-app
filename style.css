@@ -1,0 +1,183 @@
+/* *{
+
+    padding: 0%;
+    margin: 0%;
+}
+.flex{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* margin-top: 2rem;
+    background-color: burlywood;
+     height: 50px;
+     padding: 5px
+}
+.h{
+    font-size: 20px;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+    font-weight: 100;
+}
+.log{
+    width: 80px;
+    height: 30px;
+    padding: 5px;
+    border-radius: black;
+    color: brown;
+    background-color: white;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 2em / 5em;
+}
+.register{
+    
+    height: 30px;
+    padding: 4px;
+    border-radius: black;
+    color: brown;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 2em / 5em;
+}
+.log:hover{
+    background-color: burlywood;
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    padding: 10px;
+}
+.slider{
+    margin-top: 10px;
+}
+.p{
+    display: flex;
+    justify-content: space-evenly;
+    flex: wrap;
+    width: 100%;
+}
+.image{
+    padding: 20px;
+}
+.btn{
+    padding: 10px 20px 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #cccab7ec;
+    /* background-color: #56b87f; */
+    /* color: rgb(59, 57, 57);
+    font-size:20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px 20px 20px 10px;
+
+}
+.btn:hover{
+    transition : 1000ms;
+padding: 10px 10px;
+transform : translateY(-0px);
+background-color: #ff0000;
+color: #000000;
+border: solid 2px #000000;
+}
+
+.h3 {
+    font-size: xx-large;
+    font-weight: 100;
+}
+.image{
+    display: flex;
+    justify-content: space-evenly;
+    flex: wrap;
+} */
+
+                  
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+background-color: blueviolet;
+    color: wheat;
+}
+#mobile{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+    padding: 80px;
+    gap:20px;
+}
+.h1{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 2rem;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    
+    width: 400px;
+    border-radius: 4.5px;
+
+}
+ 
+h3{
+    font-size: xx-large;
+    color: #000000;
+    background-color: #faf6d3b2;
+    margin-bottom: 5px;
+}
+h4{
+    font-size: x-large;
+    color: #192a2b;
+    background-color: #cccab7bb;
+    
+}
+.btn{
+    padding: 10px 20px 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: brown;
+    color: white;
+    font-size:20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px 20px 20px 10px;
+
+}
+.btn:hover{
+    background-color: burlywood;
+    transition: 2ms;
+}
+
+.footer{
+    position: fixed;
+    margin-top: 10px;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(27, 22, 22);
+    color: white;
+    text-align: center;
+    font-family: 'Black Ops One';
+    font-size: 25px;
+    font-family: 'Black Ops One'
+}
+a{
+    color: #fdfdfd;
+    text-decoration: none;
+}
+a:hover{
+    color: #bdaf37;
+    text-decoration: none;
+}
